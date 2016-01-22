@@ -3,7 +3,9 @@ Encode or Decode a text to Base64
 
 Usage:java Base64e_d -option text
 Options:
+
 -e      encode the text supplied
+
 -d      decode the text supplied
 
 Example: java Base64e_d -e "Hello World"
