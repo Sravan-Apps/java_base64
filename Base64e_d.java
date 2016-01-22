@@ -1,5 +1,5 @@
 /*
-Base64 Encoder/Decoder of Ascii Charecters in Java By Sravan
+Base64 Encoder/Decoder of Ascii Charecters in Java
 Date 19-10-2015
 Usage: java Base64e_d -option "text"
 options:
@@ -45,7 +45,7 @@ public class Base64e_d{
 
 	private static void Usage()
 	{
-			System.out.println("=======Coded by Sravan=====");
+			
 			System.out.println("Usage: java Base64e_d -option text");
 			System.out.println("Options:");
 			System.out.println("-e	encode the text supplied");
