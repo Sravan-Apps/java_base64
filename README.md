@@ -2,6 +2,7 @@
 Encode or Decode a text to Base64
 
 Usage:java Base64e_d -option text
+
 Options:
 
 -e      encode the text supplied
